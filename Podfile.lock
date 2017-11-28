@@ -1,0 +1,12 @@
+PODS:
+  - AlertOnboarding (1.9)
+
+DEPENDENCIES:
+  - AlertOnboarding
+
+SPEC CHECKSUMS:
+  AlertOnboarding: 0c97f5c4feac0a4e914bae5d530f66b4dbc6b771
+
+PODFILE CHECKSUM: 0bca054450ce55711cedfc65efcfef93f1e520f7
+
+COCOAPODS: 1.1.1
